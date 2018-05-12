@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34649'
     url: http://www.gutenberg.org/2009/agents/34649
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30503#The-Truth-About-America
 gutenberg_issued: '2009-11-19'
 gutenberg_type: Text
 identifiers:
